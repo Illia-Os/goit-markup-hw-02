@@ -100,7 +100,7 @@ body * {
     color: var(--five-color);
 }
 
-.portfolio h2 {
+.portfolio>ul h2 {
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
@@ -108,8 +108,8 @@ body * {
     letter-spacing: 0.06em;
     color: var(--six-color);
 }
-
-.portfolio p {
+/* section portfolio */
+.portfolio>ul p {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -173,6 +173,10 @@ body * {
 .filter-button>li button:hover {
     background-color: var(--first-color);
     color: var(--second-color);
+}
+
+.filter-button>li button {
+    cursor: pointer;
 }
 
 .filter-button button{
