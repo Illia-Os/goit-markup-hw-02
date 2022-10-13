@@ -53,8 +53,6 @@ body * {
 }
 
 .features ul li p {
-    font-weight: 400;
-    font-style: normal;
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
@@ -92,8 +90,6 @@ body * {
 }
 
 .team>ul li p {
-    font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.1;
     letter-spacing: 0.03em;
@@ -110,8 +106,6 @@ body * {
 }
 /* section portfolio */
 .portfolio>ul p {
-    font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.03em;
