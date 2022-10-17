@@ -33,7 +33,7 @@
 }
 
 /* ------------------------------(body-settings)--------------------------- */
-body * {
+ * {
     font-family: 'Roboto', 'Montserrat';
     color: var(--third-color);
     text-decoration: none;
