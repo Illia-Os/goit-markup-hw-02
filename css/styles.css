@@ -103,6 +103,14 @@ body * {
   color: var(--first-color);
 }
 
+.navigation {
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+color: var(--six-color)
+}
+
 .contacts-header:hover,
 .contacts-header:focus {
   color: var(--first-color);
@@ -116,6 +124,26 @@ body * {
 .contacts-footer:hover,
 .contacts-footer:focus {
   color: var(--first-color);
+}
+
+.contacts-header{
+color: var(--five-color);
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+}
+.contacts-footer{
+color: var(--five-color);
+font-style: normal;
+font-size: 14px;
+line-height: 24px;
+}
+
+.title-address {
+font-style: normal;
+font-size: 14px;
+line-height: 24px;
 }
 
 /* -----------------------(button-on-the-main-page-of-the-site)------------------------------ */
