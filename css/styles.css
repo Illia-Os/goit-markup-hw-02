@@ -33,7 +33,7 @@
 }
 
 /* ------------------------------(body-settings)--------------------------- */
- * {
+body * {
     font-family: 'Roboto', 'Montserrat';
     color: var(--third-color);
     text-decoration: none;
@@ -46,15 +46,12 @@
     font-style: normal;
     font-size: 14px;
     line-height: 1.1;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
     color: var(--six-color)  
 }
 
 .features ul li p {
     font-size: 14px;
     line-height: 1.7;
-    letter-spacing: 0.03em;
     color: var(--five-color)
 }
 
@@ -64,7 +61,6 @@
     font-weight: 700;
     font-size: 36px;
     line-height: 1.2;
-    letter-spacing: 0.03em;
     color: var(--six-color)
 }
 
@@ -74,7 +70,6 @@
     font-weight: 700;
     font-size: 36px;
     line-height: 1.2;
-    letter-spacing: 0.03em;
     color: var(--six-color);
 }
 
@@ -84,7 +79,6 @@
     font-weight: 500;
     font-size: 16px;
     line-height: 1.1;
-    letter-spacing: 0.03em;
     color: var(--six-color);
 }
 
@@ -146,12 +140,11 @@
 .font-style nav ul{
     font-weight: 500;
 }
-.font-style ul a{
+.font-style>ul a{
     color: var(--five-color);
     font-weight: 500;
     font-size: 14px;
     line-height: 1.1;
-    letter-spacing: 0.02em;
 }
 
 .font-style address ul a{
@@ -159,7 +152,6 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 1.6;
-    letter-spacing: 0.03em;
     color: var(--five-color);
 }
 
@@ -173,13 +165,9 @@
 
 .button-style {
     width: 216px;
-    font-style: normal;
     font-weight: 700;
     font-size: 16px;
     line-height: 2.6;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.06em;
     cursor: pointer;
 }
 /* -----------------(the-text-should-be-hidden)---------------------- */
