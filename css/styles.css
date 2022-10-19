@@ -164,7 +164,7 @@ cursor: pointer;
 }
 
 .point-hiden {
-  list-style-type: none;
+  list-style: none;
 }
 
 /* -----------------------(filter-on-the-portfolio-tab)------------------------ */
