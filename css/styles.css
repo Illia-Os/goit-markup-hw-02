@@ -10,6 +10,7 @@
 /* ------------------------(logo)----------------------------------- */
 .part-logo {
 color: var(--first-color);
+
 }
 
 .logo {
@@ -32,7 +33,7 @@ margin-left: 10px;
 }
 /* ------------------------------(body-settings)--------------------------- */
 body {
-font-family: "Roboto",sans-serif,"Montserrat",sans-serif;
+font-family: "Roboto",sans-serif,"Raleway",sans-serif,"Montserrat",sans-serif;
 color: var(--third-color);
 }
 
