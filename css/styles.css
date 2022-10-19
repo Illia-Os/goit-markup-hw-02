@@ -36,6 +36,13 @@ body {
 font-family: "Roboto","Raleway","Montserrat",sans-serif;
 color: var(--third-color);
 }
+/* section-main-title */
+
+.main-title > h1 {
+font-size: 44px;
+font-weight: 900;
+line-height: 1.4;
+}
 
 /* section features */
 .title-features {
