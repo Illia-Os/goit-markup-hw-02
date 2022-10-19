@@ -33,7 +33,7 @@ margin-left: 10px;
 }
 /* ------------------------------(body-settings)--------------------------- */
 body {
-font-family: "Roboto",sans-serif,"Raleway",sans-serif,"Montserrat",sans-serif;
+font-family: "Roboto","Raleway","Montserrat",sans-serif;
 color: var(--third-color);
 }
 
